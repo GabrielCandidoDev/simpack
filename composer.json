@@ -1,0 +1,14 @@
+{
+    "name": "gabrielcandido/simpack",
+    "description": "curso de composer para php",
+    "authors": [
+        {
+            "name": "Gabriel"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
